@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": false
+  },
+  "attention": {
+    "naive_ms": 145.05,
+    "vectorized_ms": 0.963,
+    "speedup": 150.62
+  },
+  "threads": {
+    "1": 2082.949,
+    "2": 1150.521,
+    "4": 927.653,
+    "8": 860.84
+  },
+  "devices": {
+    "cpu_ms": 182594.1,
+    "gpu_ms": 9890.7
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.5003,
+    "param_count": 4935680
+  },
+  "sample": "\nELBENVO:\nHe will him. How hath hatte wa hage!\nMeaping had franous glawful him, you, blood knows;\nHow browh Wellustion spur2th: I know it new him.\nI should it your vitlaight this know the king\nAnd prov",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecomlab-syriopoulos-eurecomgpt/model.safetensors"
+  }
+}
