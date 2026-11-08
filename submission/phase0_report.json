@@ -1,0 +1,24 @@
+  {
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "theodoros.syriopoulos@eurecom.fr",
+    "project": "eurecomlab-syriopoulos",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.3, build 5457199",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/TS-Gemini1/clouds-lab.git",
+    "is_github": true,
+    "slug": "TS-Gemini1/clouds-lab"
+  }
+}
